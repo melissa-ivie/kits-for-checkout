@@ -1,0 +1,25 @@
+{
+  "name": "kits-for-checkout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/index.jsx"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melissa-ivie/kits-for-checkout.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melissa-ivie/kits-for-checkout/issues"
+  },
+  "homepage": "https://github.com/melissa-ivie/kits-for-checkout#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
